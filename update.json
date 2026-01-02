@@ -4,16 +4,16 @@
       "name": "APK theme",
       "slug": "WP-themes-apk",
       "latest_version": "2.0.5",
-      "download_url": "https://raw.githubusercontent.com/qtan12/zipthemes/refs/heads/main/03.zip",
+      "download_url": "https://github.com/qtan12/zipthemes/releases/download/v2.0.5/WP-themes-apk.zip",
       "url": "https://github.com/qtan12/zipthemes",
       "requires": "5.0",
       "tested": "6.4",
       "last_updated": "2025-09-12",
       "versions": [
         {
-          "version": "2.0.0",
+          "version": "2.0.5",
           "release_date": "2025-09-12",
-          "changelog": "Initial release"
+          "changelog": "Fix bugs, improve performance"
         }
       ]
     }
